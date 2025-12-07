@@ -10,6 +10,6 @@ The PDF includes:
 
 All details are documented inside the attached PDF.
 
-📄 Case Study PDF: "Uploaded"
+📄 Case Study PDF: "download from case-study.pdf"
 🎨 Designed in Figma: "https://www.figma.com/design/H23yeROkKIbnYuIr6r5rCy/Chatbot-ReDesign?node-id=0-1&t=5nvGO7VDIs80edxa-1"
 👤 Submitted by: Atul Patil
