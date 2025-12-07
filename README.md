@@ -10,6 +10,6 @@ The PDF includes:
 
 All details are documented inside the attached PDF.
 
-📄 Case Study PDF: ()
+📄 Case Study PDF: "Uploaded"
 🎨 Designed in Figma
 👤 Submitted by: Atul Patil
